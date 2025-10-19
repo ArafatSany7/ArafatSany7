@@ -58,7 +58,7 @@
 
 ###
 
-<div align="center">
+<div align="center",width="12">
   <img src="https://streak-stats.demolab.com?user=ArafatSany7&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArafatSany7&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
 </div>
