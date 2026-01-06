@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">⚒️ l Language and tools : </h3>
+<h3 align="left"> l Language and tools : </h3>
 
 ###
 
