@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Pursuing Software Engineering at Daffodil International University | Aspiring Full-stack Engineer Focused on crafting high-performance, interactive web experiences. Currently mastering React, TypeScript, and Framer Motion.</p>
+<p align="left"> Pursuing Software Engineering at Daffodil International University | Aspiring Full-stack Engineer Focused on crafting high-performance, interactive web experiences. Currently mastering React, TypeScript, and Framer Motion.</p>
 
 ###
 
-<h3 align="left">Language and tools</h3>
+<h3 align="left"> Language and tools</h3>
 
 ###
 
