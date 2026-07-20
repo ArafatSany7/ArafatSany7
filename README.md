@@ -19,7 +19,7 @@ Hello! I'm an enthusiastic Software Engineering student from Dhaka, Bangladesh. 
 * 🔭 I’m currently working on a **Tourism Management Website**
 * 🌱 I’m currently exploring and learning **Next.js & System Architecture**
 * 👯 I’m looking to collaborate on **Open-source MERN stack projects**
-* 📫 How to reach me: **your.email@example.com**
+* 📫 How to reach me: **human.sany7@gmail.com**
 * 🌍 Location: **Dhaka, Bangladesh**
 
 ---
