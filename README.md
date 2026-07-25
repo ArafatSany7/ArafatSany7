@@ -29,9 +29,6 @@ Hello! I'm an enthusiastic Software Engineering student from Dhaka, Bangladesh. 
 
 
 # 📊 GitHub Stats:
-<p align="center">
- ![](https://github-readme-stats.shion.dev/api?username=ArafatSany7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArafatSany7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=ArafatSany7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ArafatSany7&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArafatSany7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
