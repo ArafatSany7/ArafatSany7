@@ -30,8 +30,7 @@ Hello! I'm an enthusiastic Software Engineering student from Dhaka, Bangladesh. 
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArafatSany7&show_icons=true&theme=radical&hide_border=true" alt="ArafatSany7's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArafatSany7&theme=radical&hide_border=true" alt="ArafatSany7's GitHub Streak" width="48%" />
+ ![](https://github-readme-stats.shion.dev/api?username=ArafatSany7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArafatSany7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
