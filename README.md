@@ -32,11 +32,13 @@ Hello! I'm an enthusiastic Software Engineering student from Dhaka, Bangladesh. 
 
 # 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=ArafatSany7&theme=gotham&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArafatSany7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+# 📊 GitHub Stats:
 
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=ArafatSany7&theme=gotham&hide_border=false" height="170" alt="GitHub Streak" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArafatSany7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" alt="Top Languages" />
+</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArafatSany7&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
 
