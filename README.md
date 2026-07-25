@@ -32,3 +32,10 @@ Hello! I'm an enthusiastic Software Engineering student from Dhaka, Bangladesh. 
 ![](https://github-readme-stats.shion.dev/api?username=ArafatSany7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ArafatSany7&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArafatSany7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ArafatSany7&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ArafatSany7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
